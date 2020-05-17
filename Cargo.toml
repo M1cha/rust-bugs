@@ -7,3 +7,4 @@ edition = "2018"
 [dependencies]
 blas-src = { version = "*", features = ["openblas"] }
 openblas-src = { version = "*", features = ["static"] }
+ndarray-linalg = "0.12"
